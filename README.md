@@ -4,6 +4,9 @@ I have used this guide [Install Ruby on Rails on Ubuntu](https://www.digitalocea
 
 Also this other tutorial [Restful Rails API, Just Add Water](https://codelation.com/blog/rails-restful-api-just-add-water) for the API basics
 
+## Server
+To start the server just execute start_server.sh
+
 ## Database
 I have used a sqlLite3 database, the schema is included.
 Execute ```bin/setup``` to install dependencies and create the database
